@@ -1,0 +1,17 @@
+.odd{
+    background-color: rgb(221, 142, 168);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+#p3{
+    font-size: 24px;
+}
+#d2{
+    color: blue;
+    font-size: 36px;
+}
+/* a light green background, a font size of 24px, and bold */
+#d4{
+    background-color: rgb(145, 214, 85);
+    font-size: 24px;
+    font-weight: bold;
+}
